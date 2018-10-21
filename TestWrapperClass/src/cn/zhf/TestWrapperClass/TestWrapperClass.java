@@ -1,5 +1,9 @@
 package cn.zhf.TestWrapperClass;
-
+/**
+ * 测试包装类的基本用法
+ * @author 11522
+ *
+ */
 public class TestWrapperClass {
 
 	public static void main(String[] args) {

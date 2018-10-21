@@ -7,9 +7,7 @@ public class TestWrapperClass {
 		System.out.println(i);
 		System.out.println(Integer.MAX_VALUE);
 		System.out.println(Integer.toHexString(i));
-		Integer i2 = Integer.parseInt("234");
+		Integer i2 = Integer.parseInt("23456");
 		System.out.println(i2);
 	}
-
-
 }

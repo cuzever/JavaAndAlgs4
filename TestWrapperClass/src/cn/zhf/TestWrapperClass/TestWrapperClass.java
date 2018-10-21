@@ -1,6 +1,7 @@
-package cn.zhf.test;
+package cn.zhf.TestWrapperClass;
 
-public class Test {
+public class TestWrapperClass {
+
 	public static void main(String[] args) {
 		Integer i = new Integer(1000);
 		System.out.println(i);
@@ -8,6 +9,7 @@ public class Test {
 		System.out.println(Integer.toHexString(i));
 		Integer i2 = Integer.parseInt("234");
 		System.out.println(i2);
-		Inter
 	}
+
+
 }
